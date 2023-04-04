@@ -1,3 +1,3 @@
 # Exchange-Rate-App
 
-https://szymon-szczurowski.github.io/Exchange-Rate-App/
+[Exchange Rate App](https://szymonszczurowski.github.io/Exchange-Rate-App/)
